@@ -61,7 +61,12 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				// D&D Fantasy colors
+				gold: '#DAA520',
+				brown: '#BB4513',
+				charcoal: '#2F4F4F',
+				parchment: '#F5DEB3'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
